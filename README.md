@@ -7,13 +7,13 @@ This project is a modern, responsive landing page for StreamLine, a fictional Sa
 - Responsive design that works on desktop, tablet, and mobile devices
 - Modern UI components built with shadcn/ui
 - Sections include:
-  - Header with navigation
-  - Hero section
-  - Feature highlights
-  - Customer testimonials
-  - Pricing plans
-  - Call-to-action
-  - Footer with social links
+    - Header with navigation
+    - Hero section
+    - Feature highlights
+    - Customer testimonials
+    - Pricing plans
+    - Call-to-action
+    - Footer with social links
 
 ## Prerequisites
 
@@ -48,8 +48,8 @@ Before you begin, ensure you have the following installed:
 ## Project Structure
 
 - `app/`: Contains the main application code
-  - `components/`: React components used throughout the application
-  - `page.tsx`: The main page component
+    - `components/`: React components used throughout the application
+    - `page.tsx`: The main page component
 - `public/`: Static assets like images
 
 ## Customization
